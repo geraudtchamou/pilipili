@@ -1,0 +1,32 @@
+```
+# Dependencies
+target/
+
+# Compiled files
+**/*.rs.bk
+**/*.pyc
+**/*.class
+**/*.o
+**/*.obj
+**/*.out
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
+```
